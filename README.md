@@ -1,4 +1,4 @@
-## 🧠 Muhammad Ahmad
+## Muhammad Ahmad - Software Engineer
 
 **Django Developer | AI Enthusiast | Flutter Developer**
 
